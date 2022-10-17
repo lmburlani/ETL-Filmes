@@ -18,5 +18,5 @@ Uma empresa de streaming de vídeo, decidiu patrocinar um *hackathon*, onde os p
 ### Fontes: 
 
 Wikipedia web scrape [JSON file](Resources/wikipedia-movies.json)
-Kaggle data from [Kaggle.com](https://www.kaggle.com/rounakbanik/the-movies-dataset) - two files: movies_metadata.csv and ratings.csv
+Kaggle [Kaggle.com](https://www.kaggle.com/rounakbanik/the-movies-dataset) - arquivos: movies_metadata.csv and ratings.csv
 
