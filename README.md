@@ -1,4 +1,4 @@
-# ETL Hackathon
+# ETL Hackathon PT-BR
 
 ### ETL 
 Os dados brutos existem em vários lugares e formas. Para realizar qualquer tipo de análise de dados, esses dados precisam ser limpos e estruturados.  Os processos de pipeline de dados **ETL – Extrair, Transformar e Carregar** é um conceito central em engenharia de dados, garantindo que os dados sejam consistentes, mantenham sua integridade e, no entanto, se esforcem para automatizar a disputa de dados. Sem uma estrutura de dados consistente e robusta, é quase impossível realizar qualquer análise significativa.
@@ -14,6 +14,8 @@ Uma empresa de streaming de vídeo, decidiu patrocinar um *hackathon*, onde os p
 -	**Transformar** dados usando o Jupyter Notebook, Python, Pandas e Python RegEx.
 -	**Carga** dos dados usando PostgreSQL e pgAdmin para hospedar o conjunto de dados limpo final.
 
+
+# ETL Hackathon EN
 
 ### ETL 
 ELT, which stands for “Extract, Load, Transform,” is another type of data integration process, similar to its counterpart ETL, “Extract, Transform, Load”. This process moves raw data from a source system to a destination resource, such as a data warehouse.
